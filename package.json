@@ -1,0 +1,20 @@
+{
+  "name": "sumofnumbers",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/pkn47/sumofnumbers#readme",
+  "bugs": {
+    "url": "https://github.com/pkn47/sumofnumbers/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pkn47/sumofnumbers.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": ".eslintrc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
